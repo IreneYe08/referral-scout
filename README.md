@@ -4,6 +4,8 @@ A Grok Bot assistant that helps you use LinkedIn to find the right people at you
 
 **Human in the loop, always.** Referral Scout researches and drafts. You review and approve every message before anything is sent. It never sends a message without your explicit OK.
 
+**Get your own copy:** [Referral Scout bot template](https://x.ai/bot/CC1AIGOO4qgffVapUzznc). Open the link to copy this assistant into your Grok Bot with the setup, skills, and routines already in place, then follow [Setup](#setup) to make it yours.
+
 ---
 
 ## Who it's for
