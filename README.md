@@ -137,6 +137,16 @@ Three target companies: a healthcare voice-AI startup, a large CX company with a
 
 ---
 
+## Skills
+
+The skills this assistant uses are in the [`skills/`](skills/) folder. Copy a folder into your bot's skills directory, or ask your Grok Bot to save it as a skill.
+
+- [`linkedin-referral-outreach`](skills/linkedin-referral-outreach/SKILL.md): the core workflow. Find people, write hooks and drafts, get approval, send, verify, and follow up.
+- [`referral-scout-getting-started`](skills/referral-scout-getting-started/SKILL.md): the onboarding questions a new owner answers to set up their own search.
+- [`linkedin-text-formatter`](skills/linkedin-text-formatter/SKILL.md): a bonus I built myself. Posting on LinkedIn matters as much as outreach, since a good post makes people more likely to accept your request. If formatting posts is a struggle, this skill structures and lays out paste-ready LinkedIn posts that don't sound AI-written. Full repo: [linkedin-text-formatter-cortex](https://github.com/IreneYe08/linkedin-text-formatter-cortex).
+
+---
+
 ## Lessons learned
 
 - **Verify the hook before sending.** A wrong detail hurts more than a generic note. When in doubt, skip.
