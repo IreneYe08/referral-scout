@@ -119,6 +119,7 @@ From the outreach log, **Sep 24 to Oct 2, 2026** (7 working days):
 - About **120 distinct people** contacted across about **25 companies' teams** (for example Microsoft, Google, OpenAI, Anthropic, Databricks, Snowflake, Airbnb), plus Seattle startups
 - **20+ connection acceptances**, each followed by a personalized follow-up
 - **At least 5 direct replies**
+- **1 referral**
 - **2 coffee chats**, plus one being scheduled
 - A **Seattle startup map**: 38 relevant Series A+ companies (13 tier A), with 4 open PM roles asking for 3 years or less
 
